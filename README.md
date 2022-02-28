@@ -21,7 +21,7 @@ environment running
 
 Download repository from Github
 
-    git clone https://github.com/elanvelazquez/loans.git
+    git clone https://github.com/elanvelazquez/employees.git
 
 now you can access to project on your local environment.
 
