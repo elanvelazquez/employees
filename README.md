@@ -60,15 +60,6 @@ To test that the application is working properly, open a new browser and navigat
 
 `docker images`
 
--To create a new tag for the image we’ve built above, run the following command
-
-`docker tag employee-docker:v1.0.0`
-
--The `docker tag` command creates a new tag for an image. It does not create a new image.
-Now, run the docker images command to see a list of our local images.
-
-`docker images`
-
 ###Run image as a container
 Run the following command in your terminal:
 
